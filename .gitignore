@@ -28,3 +28,6 @@ release/
 # Tools
 tools/
 logs/
+
+# APM dependencies
+apm_modules/
